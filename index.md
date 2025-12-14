@@ -34,7 +34,7 @@ There is no place in British society for extremism or intolerance.
   - Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas.
 
 ![The Channel Islands](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/141A0/production/_131463328_bbcm_channel-islands_country_profile_161023.png.webp){width: 400px;}
-![British Overseas Territories](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthe-united-kingdom-and-the-british-overseas-territories-v0-ciw6de6veqye1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D0ec7cddbe8f04b3f17be5c2880c2eea148b64f3f){width: 400px;}
+![British Overseas Territories](https://en.wikipedia.org/wiki/British_Overseas_Territories#/media/File:United_Kingdom_(+overseas_territories)_in_the_World_(+Antarctica_claims).svg){width:400px}
 
 ## Chapter 3: A long and illustrious history
 
