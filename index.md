@@ -33,7 +33,7 @@ There is no place in British society for extremism or intolerance.
 - The UK is governed by the parliament sitting in Westminster.
   - Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas.
 
-![The Channel Islands](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/141A0/production/_131463328_bbcm_channel-islands_country_profile_161023.png.webp "The Channel Islands"){:width='100' :height='75' :style='border: 1px solid red;'}
+![The Channel Islands](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/141A0/production/_131463328_bbcm_channel-islands_country_profile_161023.png.webp "The Channel Islands"){:width='500' :style='border: 1px solid red;'}
 ![British Overseas Territories](https://en.wikipedia.org/wiki/British_Overseas_Territories#/media/File:United_Kingdom_(+overseas_territories)_in_the_World_(+Antarctica_claims).svg){width:400px}
 
 ## Chapter 3: A long and illustrious history
