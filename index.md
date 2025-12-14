@@ -30,6 +30,8 @@ There is no place in British society for extremism or intolerance.
 - British Overseas Territories (BOTs)
   - 14 territories linked to the UK but outside the British Isles, like Bermuda, Cayman Islands, Falklands, Gibraltar, British Virgin Islands, and St Helena, 
   - each with self-governance but the UK responsible for defence and foreign affairs, forming part of the UK's sovereign territory.
+- The UK is governed by the parliament sitting in Westminster.
+  - Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas.
 
 ![The Channel Islands](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/141A0/production/_131463328_bbcm_channel-islands_country_profile_161023.png.webp){width: 400px;}
 ![British Overseas Territories](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthe-united-kingdom-and-the-british-overseas-territories-v0-ciw6de6veqye1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D0ec7cddbe8f04b3f17be5c2880c2eea148b64f3f){width: 400px;}
