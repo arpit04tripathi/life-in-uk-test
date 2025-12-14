@@ -38,6 +38,26 @@ There is no place in British society for extremism or intolerance.
 
 ## Chapter 3: A long and illustrious history
 
+### Early Britain
+
+#### Stone Age -> Iron Age
+
+- Stone Age
+  - First people to live in Britain : Hunter-gatherers who followed herds of deer and horses
+  - Britain was connected by land bridge to continent, 10_000 years ago separated from continent via a Channel
+  - 6,000 years ago : first farmers arrived, whose ancestors came from South-East Europe.
+    - Build houses, tombs and monuments
+    - Stone age monument - Stonehedge in Wiltshire, probably a gathering place for seasonal ceremonies
+  - `Skara Brae` on Orkney - best preserved prehistoric village in northern Europe about life at the end of Stone Age
+    - Orkney Island is situated off the north coast of Scotland
+    - ![Stone Hedge](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/2560px-Stonehenge2007_07_30.jpg){:width='500' :style='border: 1px solid red;'}
+- Bronze Age
+  - 4,000 years ago
+
+#### 
+
+### 
+
 ## Chapter 4: A modern, thriving society
 
 ## Chapter 5: The UK government, the law and your role
